@@ -1,0 +1,14 @@
+1. Introduction 
+	search engine website is a designed in a way that the user will login 
+	to the website and the searched seruslt will displayed
+1.1 Purpose 
+	to provide a reliable and sscalebale online application 
+	where user can send and access without any error and failure
+2. Functional Requriments 
+	.user login to website
+	.user search for information with spefic keyword
+	.search history is generated and saved
+3. Non-Functional Requriments 
+	.system should be 99% accurated
+	.should not display duplicate searched result
+	.should handle more tahn 10000 peoples in an hour
